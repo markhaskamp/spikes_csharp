@@ -45,6 +45,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Component\DarkRoast.cs" />
+    <Compile Include="Component\Decaf.cs" />
+    <Compile Include="Component\Espresso.cs" />
+    <Compile Include="Component\HouseBlend.cs" />
+    <Compile Include="IBeverage.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
