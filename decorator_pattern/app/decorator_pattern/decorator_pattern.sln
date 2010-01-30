@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "decorator_pattern", "decorator_pattern\decorator_pattern.csproj", "{DB7E9ADF-4081-4813-B303-88CCDE580EDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "decorator_pattner_tests", "..\..\test\decorator_pattner_tests\decorator_pattner_tests.csproj", "{8FFB1902-BDA2-4346-AD58-CE1508211E35}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "decorator_pattern_tests", "..\..\test\decorator_pattner_tests\decorator_pattern_tests.csproj", "{8FFB1902-BDA2-4346-AD58-CE1508211E35}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

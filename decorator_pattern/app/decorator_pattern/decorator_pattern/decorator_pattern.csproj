@@ -49,6 +49,11 @@
     <Compile Include="Component\Decaf.cs" />
     <Compile Include="Component\Espresso.cs" />
     <Compile Include="Component\HouseBlend.cs" />
+    <Compile Include="Condiment\ICondimentDecorator.cs" />
+    <Compile Include="Condiment\Milk.cs" />
+    <Compile Include="Condiment\Mocha.cs" />
+    <Compile Include="Condiment\Soy.cs" />
+    <Compile Include="Condiment\Whip.cs" />
     <Compile Include="IBeverage.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
